@@ -1,0 +1,19 @@
+{
+  "name": "WWDC21 Demo Collection",
+  "overview": "Packages to be used in our demo app",
+  "keywords": ["wwdc21"],
+  "packages": [
+    {
+      "url": "https://github.com/apple/swift-format",
+      "summary": "Formatting technology for Swift source code.",
+      "keywords": [“formatting”, "swift"],
+      "versions": ["0.50400.0", "0.50300.0"],
+      "excludedProducts": ["SwiftFormatConfiguration"],
+      "readmeURL": "https://github.com/apple/swift-format/blob/main/README.md"
+    },
+    { "url": "https://github.com/Alamofire/Alamofire" }
+  ],
+  "author": {
+    "name": "Boris Buegling"
+  }
+}
